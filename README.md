@@ -8,7 +8,7 @@ Using Python 3.7 for Module 4
 
 We had a new version of the student data with several changes including an added column for 'Student Budget'. We needed to rework our analysis with the new dataset.
 
-## Summary
+## School District Analysis 
 
 ### Deliverable 1
 
@@ -73,5 +73,17 @@ Finally, we needed to use groupby() and mean() to understand the average math sc
 
 ![image](https://user-images.githubusercontent.com/115019829/199142795-82e1b86c-f877-4cf8-8950-059576ad95cc.png)
 
+## Summary
 
+From our analysis we were able to extrapolate the following: 
+* 10% of the students did not complete or do not have data for their reading scores.
+* 5% of the students did not complete or do not have data for their math scores.
+* The average math score for all students in the district who have completed the assessment is 64.67.
+* The lowest reading score in the district was 10.5 from Dixon High School.
+* The average reading score of 11th and 12th graders in the district was 74.90.
+* The average budget of public schools is $911,195 and charter schools is $872,625.
+* There are 15 high schools in the district, with Montgomery High School being the largest -- 2,038 students.
+* The smallest high school in the district is Chang High school -- 171 students.
+* The average math scores for charter school 9th, 10th, and 11th graders is higher than public school. 
+* The average math score for charter school 12th graders is lower than public school. 
 
